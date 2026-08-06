@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: sumankulkarni.com/sitemap.xml
