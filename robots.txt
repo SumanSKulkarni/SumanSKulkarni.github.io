@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: sumankulkarni.com/sitemap.xml
+Sitemap: https://sumanskulkarni.github.io./sitemap.xml
