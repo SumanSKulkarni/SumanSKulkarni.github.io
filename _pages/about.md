@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     sumank[at]upenn[dot]edu<br>
-    <a href="https://scholar.google.com/citations?user=YOUR_ID_HERE">Google Scholar</a>
+    <a href="https://scholar.google.com/citations?user=BKZ5QpEAAAAJ&hl=en">Google Scholar</a>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 
@@ -25,4 +25,4 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I'm Suman Kulkarni, a Ph.D. candidate at the University of Pennsylvania advised by [Dani S. Bassett](https://scholar.google.com/citations?user=siYpAPsAAAAJ&hl=en). This website is under construction, so stay tuned!
+I'm Suman, a Ph.D. candidate at the University of Pennsylvania advised by [Dani S. Bassett](https://scholar.google.com/citations?user=siYpAPsAAAAJ&hl=en). This website is under construction, so stay tuned!
