@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. candidate at University of Pennsylvania
+subtitle: Physics Ph.D. candidate at University of Pennsylvania
 
 profile:
   align: right
