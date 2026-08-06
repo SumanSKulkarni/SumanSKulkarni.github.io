@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Suman Kulkarni, a Ph.D. candidate at the University of Pennsylvania advised by [Dani S. Bassett] (https://scholar.google.com/citations?user=siYpAPsAAAAJ&hl=en). This website is under construction, so stay tuned!
+I'm Suman Kulkarni, a Ph.D. candidate at the University of Pennsylvania advised by [Dani S. Bassett](https://scholar.google.com/citations?user=siYpAPsAAAAJ&hl=en). This website is under construction, so stay tuned!
