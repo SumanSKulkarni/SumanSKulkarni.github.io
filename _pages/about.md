@@ -8,7 +8,8 @@ profile:
   image: SumanKulkarni.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <a href="https://scholar.google.com/citations?user=BKZ5QpEAAAAJ&hl=en">Google Scholar</a>
+    sumank[at]upenn[dot]edu<br>
+    <a href="https://scholar.google.com/citations?user=YOUR_ID_HERE">Google Scholar</a>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 
