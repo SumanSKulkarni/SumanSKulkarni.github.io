@@ -6,7 +6,7 @@ subtitle: Ph.D. candidate at University of Pennsylvania
 
 profile:
   align: right
-  image: SumanKulkarni.jpeg
+  image: SumanKulkarni.png
   image_circular: false # crops the image to make it circular
   more_info: >
 
