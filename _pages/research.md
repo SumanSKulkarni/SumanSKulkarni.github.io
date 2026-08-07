@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: Research organized by theme
+description: Research organized thematically (under construction...)
 nav: true
 nav_order: 4
 horizontal: false
