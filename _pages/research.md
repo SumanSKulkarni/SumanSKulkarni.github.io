@@ -9,17 +9,28 @@ horizontal: false
 ---
 
 ## Information networks in music
-
 <div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 1.5rem;" markdown="1">
-
   <img src="/assets/img/research_music.png" alt="Music networks" style="width: 280px; flex-shrink: 0; border-radius: 4px;">
-
   <div style="flex: 1; min-width: 250px;" markdown="1">
-
 Music unfolds as a sequence of notes whose statistical structure shapes what a listener expects and, in turn, how much information each transition conveys. We use tools from information theory and network science to quantitatively study the structure of note-transition in music.
-
+<div class="music-refs" markdown="1">
 {% bibliography --query @*[keywords=music] --group_by none %}
-
+</div>
+<style>
+  .music-refs .col-sm-2.abbr {
+    display: none;
+  }
+  .music-refs .col-sm-8 {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+  }
+  .music-refs .row {
+    margin: 0;
+  }
+  .music-refs ol.bibliography {
+    padding-left: 1.5em;
+    font-size: 0.85em;
+  }
+</style>
   </div>
-
 </div>
