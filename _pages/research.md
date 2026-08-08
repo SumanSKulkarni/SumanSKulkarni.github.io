@@ -47,7 +47,7 @@ Music unfolds as a sequence of notes whose statistical structure shapes what a l
 <div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 1.5rem;" markdown="1">
   <img src="/assets/img/research_stat_dyn_networks.png" alt="Statistical physics and dynamics on networks" style="width: 280px; flex-shrink: 0; border-radius: 4px;">
   <div style="flex: 1; min-width: 250px;" markdown="1">
-Models from statistical physics and dynamical systems are useful for modeling a range of phenomena on networks, from opinion dynamics in social networks to neural activity in brain networks. We ask how a network's structure and heterogeneity shape the collective behavior of these models.
+Tools from statistical physics and dynamical systems are useful for modeling a range of phenomena on networks---from opinion dynamics on social networks to neural activity in the brain. We ask how network structure shapes the collective behavior of these models.
 <div class="statphys-refs" markdown="1">
 {% bibliography --query @*[keywords=statphys] --group_by none %}
 </div>
