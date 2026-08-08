@@ -31,7 +31,7 @@ Music unfolds as a sequence of notes whose statistical structure shapes what a l
     padding-left: 1.5em;
     font-size: 0.85em;
   }
-  .music-refs em {
+  .music-refs .author em {
     font-style: normal;
     font-weight: bold;
   }
