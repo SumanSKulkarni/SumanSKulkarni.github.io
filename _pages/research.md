@@ -7,7 +7,40 @@ nav: true
 nav_order: 4
 horizontal: false
 ---
-
+## Statistical physics & dynamics on networks
+<div style="display: flex; gap: 2rem; align-items: center; margin-bottom: 1.5rem;" markdown="1">
+  <img src="/assets/img/research_stat_dyn_networks.png" alt="Statistical physics and dynamics on networks" style="width: 280px; flex-shrink: 0; border-radius: 4px;">
+  <div style="flex: 1; min-width: 250px;" markdown="1">
+Tools from statistical physics and dynamical systems are useful for modeling a range of phenomena on networks---from opinion dynamics on social networks to neural activity in the brain. We ask how network structure shapes the collective behavior of these models.
+<div class="statphys-refs" markdown="1">
+{% bibliography --query @*[keywords=statphys] --group_by none %}
+</div>
+<style>
+  .statphys-refs .col-sm-2.abbr {
+    display: none;
+  }
+  .statphys-refs .col-sm-8 {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+  }
+  .statphys-refs .row {
+    margin: 0;
+  }
+  .statphys-refs ol.bibliography {
+    padding-left: 1.5em;
+    font-size: 0.85em;
+  }
+  .statphys-refs .author em {
+    font-style: normal;
+    font-weight: bold;
+  }
+  .statphys-refs .periodical,
+  .statphys-refs .links {
+    display: inline;
+  }
+</style>
+  </div>
+</div>
 ## Information networks in music
 <div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 1.5rem;" markdown="1">
   <img src="/assets/img/research_music.png" alt="Music networks" style="width: 280px; flex-shrink: 0; border-radius: 4px;">
@@ -37,41 +70,6 @@ Music unfolds as a sequence of notes whose statistical structure shapes what a l
   }
   .music-refs .periodical,
   .music-refs .links {
-    display: inline;
-  }
-</style>
-  </div>
-</div>
-
-## Statistical physics & dynamics on networks
-<div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 1.5rem;" markdown="1">
-  <img src="/assets/img/research_stat_dyn_networks.png" alt="Statistical physics and dynamics on networks" style="width: 280px; flex-shrink: 0; border-radius: 4px;">
-  <div style="flex: 1; min-width: 250px;" markdown="1">
-Tools from statistical physics and dynamical systems are useful for modeling a range of phenomena on networks---from opinion dynamics on social networks to neural activity in the brain. We ask how network structure shapes the collective behavior of these models.
-<div class="statphys-refs" markdown="1">
-{% bibliography --query @*[keywords=statphys] --group_by none %}
-</div>
-<style>
-  .statphys-refs .col-sm-2.abbr {
-    display: none;
-  }
-  .statphys-refs .col-sm-8 {
-    flex: 0 0 100% !important;
-    max-width: 100% !important;
-  }
-  .statphys-refs .row {
-    margin: 0;
-  }
-  .statphys-refs ol.bibliography {
-    padding-left: 1.5em;
-    font-size: 0.85em;
-  }
-  .statphys-refs .author em {
-    font-style: normal;
-    font-weight: bold;
-  }
-  .statphys-refs .periodical,
-  .statphys-refs .links {
     display: inline;
   }
 </style>
