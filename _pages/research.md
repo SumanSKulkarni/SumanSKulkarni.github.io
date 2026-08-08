@@ -35,6 +35,10 @@ Music unfolds as a sequence of notes whose statistical structure shapes what a l
     font-style: normal;
     font-weight: bold;
   }
+  .music-refs .periodical,
+  .music-refs .links {
+    display: inline;
+  }
 </style>
   </div>
 </div>
@@ -65,6 +69,10 @@ Models from statistical physics and dynamical systems are useful for modeling a 
   .statphys-refs .author em {
     font-style: normal;
     font-weight: bold;
+  }
+  .statphys-refs .periodical,
+  .statphys-refs .links {
+    display: inline;
   }
 </style>
   </div>
